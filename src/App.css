@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+#form{
+  background-color: blue;
+}
+.Input_inputroot{
+  color:blue;
+  font-size: large;
+}
